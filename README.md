@@ -1,4 +1,6 @@
 # Dan's Notes
 
-# This is the largest header
-###### This is the smallest header
+## Summary
+This repository contains all the notes taken by Dan for the lighthouse web development bootcamp!
+
+... taken by [Dan](https://github.com/dantan123)
